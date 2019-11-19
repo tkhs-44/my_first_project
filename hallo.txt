@@ -2,4 +2,4 @@ hallo! git
 
 gitの使い方を学んでるよ！
 
-branch_a で作業してみた
+branch_a で作業が完了しました
